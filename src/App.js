@@ -72,9 +72,6 @@ const App = ()=>{
              
         <footer class="footer">
             <div class="icon">
-                <h1> </h1>
-                <h1> </h1>Connect With Me!!
-
                 <ul>
                     <li class="list-inline"><a href="https://github.com/Snow-Bull" target="_blank" rel="noreferrer"><i class="fa-brands fa-github"></i></a></li>
                     <li class="list-inline"><a href="https://twitter.com/SusmitMukherje5" target="_blank" rel="noreferrer"><i class="fa-brands fa-twitter"></i>
